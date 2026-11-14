@@ -86,18 +86,3 @@ Highlight: the experimental setup and the conclusions of the experiments.
 
 ---
 
-## Highlighting checklist for the PDF
-- [ ] Problem statement and motivation
-- [ ] Definition of the sensitive attribute, deprived/favoured groups and desired class
-- [ ] Formula of the discrimination measure
-- [ ] Redlining / why removing the attribute is not enough
-- [ ] Reweighing description and weight formula
-- [ ] Massaging, Uniform Sampling, Preferential Sampling
-- [ ] Theoretical accuracy–discrimination trade-off
-- [ ] Experimental datasets, classifiers and main conclusions
-- [ ] Any limitations or future work stated by the authors
-
-## Writing tips
-- Read a section, close the PDF, then write from memory.
-- Use your own notation and your own example (the Adult weights from Task 2).
-- Cite the paper once at the top; do not use quotation marks around long passages.
